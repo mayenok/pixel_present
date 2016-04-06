@@ -17,7 +17,7 @@ html, body {
   width: 400px;
   height: 200px;
   @include frames-sprite(cartoon000);
-  animation: play 70s steps(146);
+  animation: play 30s steps(146);
 }
 
 

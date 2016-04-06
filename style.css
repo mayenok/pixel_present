@@ -753,7 +753,7 @@ html, body {
   width: 400px;
   height: 200px;
   background-position: 0 0;
-  animation: play 70s steps(146);
+  animation: play 30s steps(146);
 }
 
 @keyframes play {
