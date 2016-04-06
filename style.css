@@ -1,0 +1,803 @@
+/* line 1, sass/style.scss */
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  text-align: center;
+}
+
+/* line 8, sass/style.scss */
+#my_div {
+  margin-top: 100px;
+}
+
+/* line 1208, frames/*.png */
+.frames-sprite, .frames-cartoon000, .frames-cartoon001, .frames-cartoon002, .frames-cartoon003, .frames-cartoon004, .frames-cartoon005, .frames-cartoon006, .frames-cartoon007, .frames-cartoon008, .frames-cartoon009, .frames-cartoon010, .frames-cartoon011, .frames-cartoon012, .frames-cartoon013, .frames-cartoon014, .frames-cartoon015, .frames-cartoon016, .frames-cartoon017, .frames-cartoon018, .frames-cartoon019, .frames-cartoon020, .frames-cartoon021, .frames-cartoon022, .frames-cartoon023, .frames-cartoon024, .frames-cartoon025, .frames-cartoon026, .frames-cartoon027, .frames-cartoon028, .frames-cartoon029, .frames-cartoon030, .frames-cartoon031, .frames-cartoon032, .frames-cartoon033, .frames-cartoon034, .frames-cartoon035, .frames-cartoon036, .frames-cartoon037, .frames-cartoon038, .frames-cartoon039, .frames-cartoon040, .frames-cartoon041, .frames-cartoon042, .frames-cartoon043, .frames-cartoon044, .frames-cartoon045, .frames-cartoon046, .frames-cartoon047, .frames-cartoon048, .frames-cartoon049, .frames-cartoon050, .frames-cartoon051, .frames-cartoon052, .frames-cartoon053, .frames-cartoon054, .frames-cartoon055, .frames-cartoon056, .frames-cartoon057, .frames-cartoon058, .frames-cartoon059, .frames-cartoon060, .frames-cartoon061, .frames-cartoon062, .frames-cartoon063, .frames-cartoon064, .frames-cartoon065, .frames-cartoon066, .frames-cartoon067, .frames-cartoon068, .frames-cartoon069, .frames-cartoon070, .frames-cartoon071, .frames-cartoon072, .frames-cartoon073, .frames-cartoon074, .frames-cartoon075, .frames-cartoon076, .frames-cartoon077, .frames-cartoon078, .frames-cartoon079, .frames-cartoon080, .frames-cartoon081, .frames-cartoon082, .frames-cartoon083, .frames-cartoon084, .frames-cartoon085, .frames-cartoon086, .frames-cartoon087, .frames-cartoon088, .frames-cartoon089, .frames-cartoon090, .frames-cartoon091, .frames-cartoon092, .frames-cartoon093, .frames-cartoon094, .frames-cartoon095, .frames-cartoon096, .frames-cartoon097, .frames-cartoon098, .frames-cartoon099, .frames-cartoon100, .frames-cartoon101, .frames-cartoon102, .frames-cartoon103, .frames-cartoon104, .frames-cartoon105, .frames-cartoon106, .frames-cartoon107, .frames-cartoon108, .frames-cartoon109, .frames-cartoon110, .frames-cartoon111, .frames-cartoon112, .frames-cartoon113, .frames-cartoon114, .frames-cartoon115, .frames-cartoon116, .frames-cartoon117, .frames-cartoon118, .frames-cartoon119, .frames-cartoon120, .frames-cartoon121, .frames-cartoon122, .frames-cartoon123, .frames-cartoon124, .frames-cartoon125, .frames-cartoon126, .frames-cartoon127, .frames-cartoon128, .frames-cartoon129, .frames-cartoon130, .frames-cartoon131, .frames-cartoon132, .frames-cartoon133, .frames-cartoon134, .frames-cartoon135, .frames-cartoon136, .frames-cartoon137, .frames-cartoon138, .frames-cartoon139, .frames-cartoon140, .frames-cartoon141, .frames-cartoon142, .frames-cartoon143, .frames-cartoon144, .frames-cartoon145, .pixel_animation {
+  background-image: url('/frames-s07d2295617.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon000 {
+  background-position: 0 0;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon001 {
+  background-position: 0 -200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon002 {
+  background-position: 0 -400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon003 {
+  background-position: 0 -600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon004 {
+  background-position: 0 -800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon005 {
+  background-position: 0 -1000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon006 {
+  background-position: 0 -1200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon007 {
+  background-position: 0 -1400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon008 {
+  background-position: 0 -1600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon009 {
+  background-position: 0 -1800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon010 {
+  background-position: 0 -2000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon011 {
+  background-position: 0 -2200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon012 {
+  background-position: 0 -2400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon013 {
+  background-position: 0 -2600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon014 {
+  background-position: 0 -2800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon015 {
+  background-position: 0 -3000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon016 {
+  background-position: 0 -3200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon017 {
+  background-position: 0 -3400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon018 {
+  background-position: 0 -3600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon019 {
+  background-position: 0 -3800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon020 {
+  background-position: 0 -4000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon021 {
+  background-position: 0 -4200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon022 {
+  background-position: 0 -4400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon023 {
+  background-position: 0 -4600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon024 {
+  background-position: 0 -4800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon025 {
+  background-position: 0 -5000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon026 {
+  background-position: 0 -5200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon027 {
+  background-position: 0 -5400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon028 {
+  background-position: 0 -5600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon029 {
+  background-position: 0 -5800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon030 {
+  background-position: 0 -6000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon031 {
+  background-position: 0 -6200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon032 {
+  background-position: 0 -6400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon033 {
+  background-position: 0 -6600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon034 {
+  background-position: 0 -6800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon035 {
+  background-position: 0 -7000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon036 {
+  background-position: 0 -7200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon037 {
+  background-position: 0 -7400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon038 {
+  background-position: 0 -7600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon039 {
+  background-position: 0 -7800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon040 {
+  background-position: 0 -8000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon041 {
+  background-position: 0 -8200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon042 {
+  background-position: 0 -8400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon043 {
+  background-position: 0 -8600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon044 {
+  background-position: 0 -8800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon045 {
+  background-position: 0 -9000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon046 {
+  background-position: 0 -9200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon047 {
+  background-position: 0 -9400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon048 {
+  background-position: 0 -9600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon049 {
+  background-position: 0 -9800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon050 {
+  background-position: 0 -10000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon051 {
+  background-position: 0 -10200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon052 {
+  background-position: 0 -10400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon053 {
+  background-position: 0 -10600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon054 {
+  background-position: 0 -10800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon055 {
+  background-position: 0 -11000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon056 {
+  background-position: 0 -11200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon057 {
+  background-position: 0 -11400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon058 {
+  background-position: 0 -11600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon059 {
+  background-position: 0 -11800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon060 {
+  background-position: 0 -12000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon061 {
+  background-position: 0 -12200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon062 {
+  background-position: 0 -12400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon063 {
+  background-position: 0 -12600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon064 {
+  background-position: 0 -12800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon065 {
+  background-position: 0 -13000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon066 {
+  background-position: 0 -13200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon067 {
+  background-position: 0 -13400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon068 {
+  background-position: 0 -13600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon069 {
+  background-position: 0 -13800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon070 {
+  background-position: 0 -14000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon071 {
+  background-position: 0 -14200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon072 {
+  background-position: 0 -14400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon073 {
+  background-position: 0 -14600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon074 {
+  background-position: 0 -14800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon075 {
+  background-position: 0 -15000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon076 {
+  background-position: 0 -15200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon077 {
+  background-position: 0 -15400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon078 {
+  background-position: 0 -15600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon079 {
+  background-position: 0 -15800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon080 {
+  background-position: 0 -16000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon081 {
+  background-position: 0 -16200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon082 {
+  background-position: 0 -16400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon083 {
+  background-position: 0 -16600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon084 {
+  background-position: 0 -16800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon085 {
+  background-position: 0 -17000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon086 {
+  background-position: 0 -17200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon087 {
+  background-position: 0 -17400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon088 {
+  background-position: 0 -17600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon089 {
+  background-position: 0 -17800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon090 {
+  background-position: 0 -18000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon091 {
+  background-position: 0 -18200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon092 {
+  background-position: 0 -18400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon093 {
+  background-position: 0 -18600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon094 {
+  background-position: 0 -18800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon095 {
+  background-position: 0 -19000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon096 {
+  background-position: 0 -19200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon097 {
+  background-position: 0 -19400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon098 {
+  background-position: 0 -19600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon099 {
+  background-position: 0 -19800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon100 {
+  background-position: 0 -20000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon101 {
+  background-position: 0 -20200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon102 {
+  background-position: 0 -20400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon103 {
+  background-position: 0 -20600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon104 {
+  background-position: 0 -20800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon105 {
+  background-position: 0 -21000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon106 {
+  background-position: 0 -21200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon107 {
+  background-position: 0 -21400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon108 {
+  background-position: 0 -21600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon109 {
+  background-position: 0 -21800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon110 {
+  background-position: 0 -22000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon111 {
+  background-position: 0 -22200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon112 {
+  background-position: 0 -22400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon113 {
+  background-position: 0 -22600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon114 {
+  background-position: 0 -22800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon115 {
+  background-position: 0 -23000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon116 {
+  background-position: 0 -23200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon117 {
+  background-position: 0 -23400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon118 {
+  background-position: 0 -23600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon119 {
+  background-position: 0 -23800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon120 {
+  background-position: 0 -24000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon121 {
+  background-position: 0 -24200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon122 {
+  background-position: 0 -24400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon123 {
+  background-position: 0 -24600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon124 {
+  background-position: 0 -24800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon125 {
+  background-position: 0 -25000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon126 {
+  background-position: 0 -25200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon127 {
+  background-position: 0 -25400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon128 {
+  background-position: 0 -25600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon129 {
+  background-position: 0 -25800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon130 {
+  background-position: 0 -26000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon131 {
+  background-position: 0 -26200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon132 {
+  background-position: 0 -26400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon133 {
+  background-position: 0 -26600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon134 {
+  background-position: 0 -26800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon135 {
+  background-position: 0 -27000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon136 {
+  background-position: 0 -27200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon137 {
+  background-position: 0 -27400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon138 {
+  background-position: 0 -27600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon139 {
+  background-position: 0 -27800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon140 {
+  background-position: 0 -28000px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon141 {
+  background-position: 0 -28200px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon142 {
+  background-position: 0 -28400px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon143 {
+  background-position: 0 -28600px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon144 {
+  background-position: 0 -28800px;
+}
+
+/* line 84, ../../../../var/lib/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.frames-cartoon145 {
+  background-position: 0 -29000px;
+}
+
+/* line 15, sass/style.scss */
+.pixel_animation {
+  margin: 2% auto;
+  width: 400px;
+  height: 200px;
+  background-position: 0 0;
+  animation: play 70s steps(146);
+}
+
+@keyframes play {
+  100% {
+    background-position: 0 -29200px;
+  }
+}
+/* line 28, sass/style.scss */
+.no_display {
+  display: none;
+}
+
+/* line 32, sass/style.scss */
+.button-wrap {
+  margin-right: 25px;
+  margin-top: 250px;
+}
+
+/* line 37, sass/style.scss */
+.red_btn:focus {
+  outline: 0;
+}
+
+/* line 41, sass/style.scss */
+.red_btn {
+  white-space: nowrap;
+  top: -1px;
+  position: relative;
+  border: none;
+  border-radius: 4px;
+  font-family: 'Roboto', sans-serif;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 18px;
+  background-color: #42a653;
+  color: #fff;
+  text-transform: uppercase;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+/* line 58, sass/style.scss */
+.red_btn:hover, .red_btn:active {
+  background-color: rgba(62, 142, 62, 0.76);
+  top: 0;
+  box-shadow: 0px 2px 5px 0px rgba(82, 123, 50, 0.25);
+}

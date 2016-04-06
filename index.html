@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>PIXEL PRESENT</title>
+    <link href="style.css" media="screen, projection" rel="stylesheet" type="text/css" />
+</head>
+
+<div id="my_div">
+
+</div>
+
+<div id="btn" class = "button-wrap">
+    <button id="inner_btn" class = "red_btn">Get the present</button>
+</div>
+
+<script>
+
+    document.getElementById("btn").onclick = function ()
+    {
+        document.getElementById('my_div').className ='pixel_animation';
+        document.getElementById('btn').className ='no_display';
+        setTimeout(function(){
+            document.getElementById('my_div').className ='';
+            document.getElementById('btn').className ='';
+            document.getElementById('btn').className ='button-wrap';
+            document.getElementById('inner_btn').innerHTML ='See again';
+        }, 66000)
+    }
+</script>
+
+<body>
+</body>
+</html>
